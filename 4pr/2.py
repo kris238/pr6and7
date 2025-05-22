@@ -5,3 +5,5 @@ for i in range(14):
 array.append(sum(array))
 for i in array:
     print(i, end=" ")
+
+
